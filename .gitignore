@@ -1,2 +1,4 @@
 # VSCode Settings
 .vscode/
+# Temporary Python Files
+__pycache__
