@@ -1,0 +1,8 @@
+Credits:
+
+Genius Format: Creating this project and maintaining it.
+LogoMakr: Creation of the logo. Download logo at logomakr.com/2gnVoG
+Qt: Creating and displaying the GUI.
+
+
+All other contributers on GitHub.
